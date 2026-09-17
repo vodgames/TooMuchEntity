@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TooMuchEntity",
+	"Description": "Too much entity",
+	"Category": "Other",
+	"CreatedBy": "EmilienC",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TooMuchEnity",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

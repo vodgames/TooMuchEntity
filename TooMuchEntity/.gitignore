@@ -1,0 +1,45 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build and generated project files
+*.sln
+*.suo
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+
+# JetBrains Rider
+.idea/
+*.DotSettings.user
+
+# Unreal Engine user-specific files
+*.tmp
+*.temp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and editor caches
+.vscode/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
